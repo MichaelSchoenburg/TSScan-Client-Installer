@@ -1,2 +1,2 @@
 # TSScan-Client-Installer
-PowerShell-Skript, welches den TSScan Client installiert.
+PowerShell-Skript, welches den TSScan Client installiert (RMM kompatibel).
