@@ -5,7 +5,7 @@
 .DESCRIPTION
     PowerShell-Skript, welches den TSScan Client installiert (RMM kompatibel).
 
-.RELATED LINKS
+.LINK
     GitHub: https://github.com/MichaelSchoenburg/TSScan-Client-Installer
 
 .INPUTS
